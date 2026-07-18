@@ -26,7 +26,7 @@
 <body>
 <section class="stage-wrap" aria-label="Présentation Clair&Net fidèle au design validé">
   <div class="stage">
-    <img src="assets/images/design-clairnet-exact.webp" alt="Page d'accueil moderne Clair&Net, services de ménage et nettoyage à Évreux et dans l'Eure" width="900" height="675" fetchpriority="high">
+    <img id="clairnet-home-hd" src="assets/images/design-clairnet-exact.webp" alt="Page d'accueil moderne Clair&Net, services de ménage et nettoyage à Évreux et dans l'Eure" width="1448" height="1086" fetchpriority="high" decoding="async">
     <a class="hot h-home" href="#accueil" aria-label="Accueil"></a>
     <a class="hot h-part" href="menage-domicile-evreux.html" aria-label="Particuliers"></a>
     <a class="hot h-pro" href="nettoyage-cabinet-medical-evreux.html" aria-label="Professionnels"></a>
@@ -91,5 +91,24 @@ document.getElementById('year').textContent=new Date().getFullYear();
 const form=document.getElementById('devisForm'),status=document.getElementById('status');
 form.addEventListener('submit',e=>{e.preventDefault();const g=n=>(form.elements[n]?.value||'').trim();if(!g('nom')||(!g('tel')&&!g('email'))){status.textContent='Merci d’indiquer votre nom et au moins un moyen de contact.';return}const subject='Demande de devis – '+g('type');const body='Bonjour Clair&Net,\n\nJe souhaite recevoir un devis.\n\nNom : '+g('nom')+'\nTéléphone : '+g('tel')+'\nE-mail : '+g('email')+'\nPrestation : '+g('type')+'\n\nBesoin :\n'+g('message');location.href='mailto:clairnet27@outlook.fr?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(body);status.textContent='Votre messagerie va s’ouvrir avec la demande pré-remplie.'});
 </script>
+<script src="assets/hd-js/hero-hd-01.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-02.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-03.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-04.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-05.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-06.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-07.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-08.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-09.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-10.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-11.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-12.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-13.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-14.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-15.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-16.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-17.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-18-20.js?v=3"></script>
+<script src="assets/hd-js/hero-hd-loader.js?v=3"></script>
 </body>
 </html>
