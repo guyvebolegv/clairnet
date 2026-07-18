@@ -1,0 +1,1 @@
+(function(){var img=document.getElementById('clairnet-home-hd');if(!img||!window.hd||!window.hd.length)return;img.src='data:image/webp;base64,'+window.hd.join('');img.width=1448;img.height=1086;img.decoding='async';img.fetchPriority='high';window.hd=[];})();
