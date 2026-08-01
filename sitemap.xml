@@ -3,28 +3,42 @@
 
   <url>
     <loc>https://clairnet27.fr/</loc>
-    <lastmod>2026-06-29</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://clairnet27.fr/menage-domicile-evreux.html</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://clairnet27.fr/nettoyage-professionnel-evreux.html</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://clairnet27.fr/grand-nettoyage-evreux.html</loc>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://clairnet27.fr/nettoyage-cabinet-medical-evreux.html</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://clairnet27.fr/nettoyage-location-evreux.html</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
