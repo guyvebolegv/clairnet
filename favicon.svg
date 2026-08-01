@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Clair&amp;Net</title>
+  <desc id="desc">Icône de marque Clair&amp;Net aux couleurs bleu et vert</desc>
+  <rect width="512" height="512" rx="96" fill="#ffffff"/>
+  <circle cx="256" cy="256" r="214" fill="#f7fbff" stroke="#dfe9f5" stroke-width="14"/>
+  <text x="106" y="300" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700" font-style="italic" fill="#1d5fc4">C</text>
+  <text x="232" y="300" font-family="Arial, Helvetica, sans-serif" font-size="168" font-weight="700" fill="#123a8c">&amp;</text>
+  <text x="322" y="300" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700" font-style="italic" fill="#2c7d2e">N</text>
+  <path d="M105 346 C190 374 321 370 407 336" fill="none" stroke="#46a821" stroke-width="22" stroke-linecap="round"/>
+</svg>
